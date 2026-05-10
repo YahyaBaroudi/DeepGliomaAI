@@ -1,0 +1,15 @@
+
+VAE latent survival model summary
+
+Samples used: 618
+Number of selected latent dimensions: 5
+Selected latent dimensions: ['VAE_Z9', 'VAE_Z8', 'VAE_Z10', 'VAE_Z13', 'VAE_Z11']
+
+Apparent C-index: 0.850
+Cross-validated C-index: 0.842 ± 0.032
+
+KM log-rank p-value: 7.545e-29
+
+Interpretation:
+The VAE-derived latent variables were used as compressed transcriptomic features in a Cox proportional hazards model.
+A significant Kaplan-Meier separation and a good cross-validated C-index suggest that the latent representation captures prognostic transcriptomic structure.

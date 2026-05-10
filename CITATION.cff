@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or adapt this project, please cite it as below."
+title: "DeepGliomaAI: Interpretable Deep Learning for Glioma Transcriptomics"
+authors:
+  - family-names: "Baroudi"
+    given-names: "Yahya"
+year: 2026
+repository-code: "https://github.com/Yhy-Brd/DeepGliomaAI"
+license: "MIT"
+keywords:
+  - glioma
+  - transcriptomics
+  - bioinformatics
+  - computational oncology
+  - deep learning
+  - variational autoencoder
+  - survival analysis
+  - molecular subtype classification
+  - SHAP
+  - GSEA

@@ -1,0 +1,17 @@
+{
+  "gmt_used": "/mnt/d/projects/DeepGliomaAI/results/04_latent_biology/VAE_Z10_gsea/gene_sets.gmt",
+  "n_gsea_rows": 250,
+  "n_latent_dimensions": 5,
+  "outputs_dir": "/mnt/d/projects/DeepGliomaAI/results/09_gsea_final_four_axes",
+  "figures_dir": "/mnt/d/projects/DeepGliomaAI/figures/09_gsea_final_four_axes",
+  "main_outputs": [
+    "latent_dimension_gsea_all_results_FIXED.csv",
+    "latent_dimension_pathway_annotation_FIXED.csv",
+    "final_four_axes_latent_dimension_scores.csv",
+    "final_four_axes_summary.csv",
+    "latent_dimension_final_annotation_GSEA_FIXED.csv",
+    "final_four_axes_heatmap.png",
+    "final_four_axes_survival_direction.png",
+    "final_four_axes_conceptual_panel.png"
+  ]
+}

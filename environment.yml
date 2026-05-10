@@ -1,0 +1,28 @@
+name: deepgliomaai
+
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - openpyxl
+  - pip
+  - pip:
+      - torch
+      - lifelines
+      - shap
+      - gseapy
+      - umap-learn
+
+
+conda env create -f environment.yml
+conda activate deepgliomaai

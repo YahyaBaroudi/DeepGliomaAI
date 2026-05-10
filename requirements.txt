@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+lifelines
+shap
+gseapy
+umap-learn
+statsmodels
+openpyxl

@@ -1,0 +1,9 @@
+{
+  "n_patients": 663,
+  "n_latent_dimensions": 20,
+  "n_expression_genes": 20228,
+  "n_biomarker_genes_available": 70,
+  "n_gsea_rows": 250,
+  "results_dir": "/mnt/d/projects/DeepGliomaAI/results/08_latent_biological_annotation",
+  "figures_dir": "/mnt/d/projects/DeepGliomaAI/figures/08_latent_biological_annotation"
+}
